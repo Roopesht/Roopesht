@@ -1,8 +1,12 @@
 
 Founder of **Ojasa Mirai** 
+
 • Experienced technologist with deep expertise in software development, architecture, and scalable systems 
+
 • Global exposure across the US, Europe, and Asia 
+
 • Delivers **AI & Generative AI training** with an engaging, real-world approach 
+
 • Known for turning complex topics into clear, practical learning experiences
 
 <!---
